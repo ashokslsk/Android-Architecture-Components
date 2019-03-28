@@ -1,7 +1,6 @@
 package com.androidabcd.ashokslsk.aac
 
 import android.databinding.ObservableField
-import java.util.*
 
 /**
  * Created by Srinivasa Ashok Kumar on 28/03/19.
