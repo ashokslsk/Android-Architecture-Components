@@ -142,3 +142,10 @@ Next step is super straight forward in layout at the root add layout tag and dat
 
 ![pic2](https://github.com/ashokslsk/Android-Architecture-components/blob/master/Pics/pic2.png)
 
+The above view is directly being updated by the data binding framework and with clean code and no pain. Hows that inspiring you ?
+
+For further understanding you may also refer to the following link : 
+
+[Data Binding ]: https://github.com/ashokslsk/Android-Architecture-Components/tree/f7780d8dea7f06fa4c6ac3dabcc207854f6a10b7/app/src
+
+Anyway moving on i will be talking about some key concepts in the Index. 
