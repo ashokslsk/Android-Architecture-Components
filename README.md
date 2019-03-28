@@ -20,5 +20,5 @@ Like the above story taunts you to read this write up, the content of the whole 
 
 ------
 
-![pic1](/Users/ashok/Documents/Workouts/AAC2/Pics/pic1.png)
+![pic1](https://github.com/ashokslsk/Android-Architecture-components/blob/master/Pics/pic1.png)
 
